@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <title>CommonUseCases</title>
+    </head>
+    
+    <body>
+        <h1>Common Website Use Cases</h1>
+        <ol>
+            <li>Phone Number</li>
+            <li>The menu </li>
+            <li>Vegetarian or vegan options</li>
+            <li>The hours</li>
+            <li>The location</li>
+        
+        </ol>
+        
+     
+     </body>
+</html>
